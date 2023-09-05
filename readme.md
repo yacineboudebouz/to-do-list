@@ -11,4 +11,3 @@ This is a simple to-do list application built with HTML, CSS, and JavaScript. It
 - Add tasks to your to-do list.
 - Mark tasks as complete.
 - Delete tasks when they are no longer needed.
-- Filter tasks by status (all, completed, active).
